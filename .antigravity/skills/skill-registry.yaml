@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: turkmenistanan-restitution-roadmap-and-qsf-trust-execution
-  name: Turkmenistanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/turkmenistanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_tm_001
+    name: Turkmenistan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_002
+    name: Turkmenistan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_003
+    name: Turkmenistan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_004
+    name: Turkmenistan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_005
+    name: Turkmenistan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_006
+    name: Turkmenistan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_007
+    name: Turkmenistan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_008
+    name: Turkmenistan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_009
+    name: Turkmenistan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_010
+    name: Turkmenistan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_011
+    name: Turkmenistan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_012
+    name: Turkmenistan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_013
+    name: Turkmenistan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_014
+    name: Turkmenistan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_015
+    name: Turkmenistan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_016
+    name: Turkmenistan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_017
+    name: Turkmenistan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_018
+    name: Turkmenistan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_019
+    name: Turkmenistan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_020
+    name: Turkmenistan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_021
+    name: Turkmenistan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_022
+    name: Turkmenistan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_023
+    name: Turkmenistan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_024
+    name: Turkmenistan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_025
+    name: Turkmenistan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_026
+    name: Turkmenistan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_027
+    name: Turkmenistan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_028
+    name: Turkmenistan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_029
+    name: Turkmenistan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_030
+    name: Turkmenistan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_031
+    name: Turkmenistan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_032
+    name: Turkmenistan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_033
+    name: Turkmenistan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_034
+    name: Turkmenistan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_035
+    name: Turkmenistan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_036
+    name: Turkmenistan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_037
+    name: Turkmenistan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_038
+    name: Turkmenistan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_039
+    name: Turkmenistan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_040
+    name: Turkmenistan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_041
+    name: Turkmenistan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_042
+    name: Turkmenistan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_043
+    name: Turkmenistan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_044
+    name: Turkmenistan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_045
+    name: Turkmenistan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_046
+    name: Turkmenistan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_047
+    name: Turkmenistan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_048
+    name: Turkmenistan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_049
+    name: Turkmenistan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_050
+    name: Turkmenistan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_051
+    name: Turkmenistan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_052
+    name: Turkmenistan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_053
+    name: Turkmenistan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_054
+    name: Turkmenistan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_055
+    name: Turkmenistan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_056
+    name: Turkmenistan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_057
+    name: Turkmenistan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_058
+    name: Turkmenistan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_059
+    name: Turkmenistan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_060
+    name: Turkmenistan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_061
+    name: Turkmenistan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_062
+    name: Turkmenistan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_063
+    name: Turkmenistan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_064
+    name: Turkmenistan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_065
+    name: Turkmenistan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_066
+    name: Turkmenistan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_067
+    name: Turkmenistan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_068
+    name: Turkmenistan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_069
+    name: Turkmenistan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_070
+    name: Turkmenistan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_071
+    name: Turkmenistan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_072
+    name: Turkmenistan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_073
+    name: Turkmenistan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_074
+    name: Turkmenistan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_075
+    name: Turkmenistan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_076
+    name: Turkmenistan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_077
+    name: Turkmenistan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_078
+    name: Turkmenistan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_079
+    name: Turkmenistan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_080
+    name: Turkmenistan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_081
+    name: Turkmenistan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_082
+    name: Turkmenistan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_083
+    name: Turkmenistan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_084
+    name: Turkmenistan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_085
+    name: Turkmenistan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_086
+    name: Turkmenistan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_087
+    name: Turkmenistan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_088
+    name: Turkmenistan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_089
+    name: Turkmenistan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_090
+    name: Turkmenistan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_091
+    name: Turkmenistan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_092
+    name: Turkmenistan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_093
+    name: Turkmenistan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_094
+    name: Turkmenistan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_095
+    name: Turkmenistan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_096
+    name: Turkmenistan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_097
+    name: Turkmenistan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_098
+    name: Turkmenistan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_099
+    name: Turkmenistan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_100
+    name: Turkmenistan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_101
+    name: Turkmenistan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_102
+    name: Turkmenistan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_103
+    name: Turkmenistan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_104
+    name: Turkmenistan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_105
+    name: Turkmenistan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_106
+    name: Turkmenistan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_107
+    name: Turkmenistan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_108
+    name: Turkmenistan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_109
+    name: Turkmenistan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_110
+    name: Turkmenistan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_111
+    name: Turkmenistan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_112
+    name: Turkmenistan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_113
+    name: Turkmenistan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_114
+    name: Turkmenistan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_115
+    name: Turkmenistan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_116
+    name: Turkmenistan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_117
+    name: Turkmenistan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_118
+    name: Turkmenistan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_119
+    name: Turkmenistan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_120
+    name: Turkmenistan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_121
+    name: Turkmenistan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_122
+    name: Turkmenistan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_123
+    name: Turkmenistan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_124
+    name: Turkmenistan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_125
+    name: Turkmenistan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_126
+    name: Turkmenistan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_127
+    name: Turkmenistan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_128
+    name: Turkmenistan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_129
+    name: Turkmenistan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_130
+    name: Turkmenistan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_131
+    name: Turkmenistan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_132
+    name: Turkmenistan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_133
+    name: Turkmenistan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_134
+    name: Turkmenistan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_135
+    name: Turkmenistan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_136
+    name: Turkmenistan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_137
+    name: Turkmenistan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_138
+    name: Turkmenistan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_139
+    name: Turkmenistan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_140
+    name: Turkmenistan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_141
+    name: Turkmenistan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_142
+    name: Turkmenistan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_143
+    name: Turkmenistan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_144
+    name: Turkmenistan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_145
+    name: Turkmenistan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_146
+    name: Turkmenistan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_147
+    name: Turkmenistan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_148
+    name: Turkmenistan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_149
+    name: Turkmenistan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_150
+    name: Turkmenistan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_151
+    name: Turkmenistan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_152
+    name: Turkmenistan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_153
+    name: Turkmenistan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_154
+    name: Turkmenistan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_155
+    name: Turkmenistan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_156
+    name: Turkmenistan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_157
+    name: Turkmenistan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_158
+    name: Turkmenistan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_159
+    name: Turkmenistan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_160
+    name: Turkmenistan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_161
+    name: Turkmenistan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_162
+    name: Turkmenistan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_163
+    name: Turkmenistan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_164
+    name: Turkmenistan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_165
+    name: Turkmenistan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_166
+    name: Turkmenistan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_167
+    name: Turkmenistan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_168
+    name: Turkmenistan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_169
+    name: Turkmenistan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_170
+    name: Turkmenistan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_171
+    name: Turkmenistan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_172
+    name: Turkmenistan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_173
+    name: Turkmenistan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_174
+    name: Turkmenistan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_175
+    name: Turkmenistan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_176
+    name: Turkmenistan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_177
+    name: Turkmenistan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_178
+    name: Turkmenistan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_179
+    name: Turkmenistan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_180
+    name: Turkmenistan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_181
+    name: Turkmenistan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_182
+    name: Turkmenistan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_183
+    name: Turkmenistan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_184
+    name: Turkmenistan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_185
+    name: Turkmenistan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_186
+    name: Turkmenistan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_187
+    name: Turkmenistan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_188
+    name: Turkmenistan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_189
+    name: Turkmenistan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_190
+    name: Turkmenistan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_191
+    name: Turkmenistan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_192
+    name: Turkmenistan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_193
+    name: Turkmenistan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_194
+    name: Turkmenistan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_195
+    name: Turkmenistan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_196
+    name: Turkmenistan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_197
+    name: Turkmenistan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_198
+    name: Turkmenistan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_199
+    name: Turkmenistan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_200
+    name: Turkmenistan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_201
+    name: Turkmenistan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_202
+    name: Turkmenistan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_203
+    name: Turkmenistan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_204
+    name: Turkmenistan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_205
+    name: Turkmenistan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_206
+    name: Turkmenistan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_207
+    name: Turkmenistan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_208
+    name: Turkmenistan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_209
+    name: Turkmenistan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_210
+    name: Turkmenistan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_211
+    name: Turkmenistan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_212
+    name: Turkmenistan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_213
+    name: Turkmenistan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_214
+    name: Turkmenistan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_215
+    name: Turkmenistan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_216
+    name: Turkmenistan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_217
+    name: Turkmenistan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_218
+    name: Turkmenistan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_219
+    name: Turkmenistan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_220
+    name: Turkmenistan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_221
+    name: Turkmenistan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_222
+    name: Turkmenistan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_223
+    name: Turkmenistan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_224
+    name: Turkmenistan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_225
+    name: Turkmenistan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_226
+    name: Turkmenistan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_227
+    name: Turkmenistan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_228
+    name: Turkmenistan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_229
+    name: Turkmenistan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_230
+    name: Turkmenistan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_231
+    name: Turkmenistan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_232
+    name: Turkmenistan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_233
+    name: Turkmenistan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_234
+    name: Turkmenistan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_235
+    name: Turkmenistan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_236
+    name: Turkmenistan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_237
+    name: Turkmenistan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_238
+    name: Turkmenistan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_239
+    name: Turkmenistan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_240
+    name: Turkmenistan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_241
+    name: Turkmenistan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_242
+    name: Turkmenistan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_243
+    name: Turkmenistan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_244
+    name: Turkmenistan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_245
+    name: Turkmenistan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_246
+    name: Turkmenistan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_247
+    name: Turkmenistan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_248
+    name: Turkmenistan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_249
+    name: Turkmenistan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_250
+    name: Turkmenistan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_251
+    name: Turkmenistan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tm_252
+    name: Turkmenistan Skill 252
+    status: ACTIVE_SCAFFOLD

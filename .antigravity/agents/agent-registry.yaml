@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-turkmenistan-canal-and-intervention-historian
-  name: Turkmenistan Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-turkmenistan-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_tm_001
+    name: Turkmenistan Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_002
+    name: Turkmenistan Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_003
+    name: Turkmenistan Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_004
+    name: Turkmenistan Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_005
+    name: Turkmenistan Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_006
+    name: Turkmenistan Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_007
+    name: Turkmenistan Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_008
+    name: Turkmenistan Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_009
+    name: Turkmenistan Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_010
+    name: Turkmenistan Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_011
+    name: Turkmenistan Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_012
+    name: Turkmenistan Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_013
+    name: Turkmenistan Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_014
+    name: Turkmenistan Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_015
+    name: Turkmenistan Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_016
+    name: Turkmenistan Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_017
+    name: Turkmenistan Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_018
+    name: Turkmenistan Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_019
+    name: Turkmenistan Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_020
+    name: Turkmenistan Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_021
+    name: Turkmenistan Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_022
+    name: Turkmenistan Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_023
+    name: Turkmenistan Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_024
+    name: Turkmenistan Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_025
+    name: Turkmenistan Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_026
+    name: Turkmenistan Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_027
+    name: Turkmenistan Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_028
+    name: Turkmenistan Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_029
+    name: Turkmenistan Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_030
+    name: Turkmenistan Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_031
+    name: Turkmenistan Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_032
+    name: Turkmenistan Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_033
+    name: Turkmenistan Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_034
+    name: Turkmenistan Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_035
+    name: Turkmenistan Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_036
+    name: Turkmenistan Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_037
+    name: Turkmenistan Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_038
+    name: Turkmenistan Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_039
+    name: Turkmenistan Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_040
+    name: Turkmenistan Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_041
+    name: Turkmenistan Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_042
+    name: Turkmenistan Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_043
+    name: Turkmenistan Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_044
+    name: Turkmenistan Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_045
+    name: Turkmenistan Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_046
+    name: Turkmenistan Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_047
+    name: Turkmenistan Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_048
+    name: Turkmenistan Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_049
+    name: Turkmenistan Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_050
+    name: Turkmenistan Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_051
+    name: Turkmenistan Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_052
+    name: Turkmenistan Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_053
+    name: Turkmenistan Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_054
+    name: Turkmenistan Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_055
+    name: Turkmenistan Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_056
+    name: Turkmenistan Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_057
+    name: Turkmenistan Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_058
+    name: Turkmenistan Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_059
+    name: Turkmenistan Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_060
+    name: Turkmenistan Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_061
+    name: Turkmenistan Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_062
+    name: Turkmenistan Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_063
+    name: Turkmenistan Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_064
+    name: Turkmenistan Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_065
+    name: Turkmenistan Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_066
+    name: Turkmenistan Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_067
+    name: Turkmenistan Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_068
+    name: Turkmenistan Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_069
+    name: Turkmenistan Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_070
+    name: Turkmenistan Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_071
+    name: Turkmenistan Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_072
+    name: Turkmenistan Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_073
+    name: Turkmenistan Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_074
+    name: Turkmenistan Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_075
+    name: Turkmenistan Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_076
+    name: Turkmenistan Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_077
+    name: Turkmenistan Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_078
+    name: Turkmenistan Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_079
+    name: Turkmenistan Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_080
+    name: Turkmenistan Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_081
+    name: Turkmenistan Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_082
+    name: Turkmenistan Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_083
+    name: Turkmenistan Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_084
+    name: Turkmenistan Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_085
+    name: Turkmenistan Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_086
+    name: Turkmenistan Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_087
+    name: Turkmenistan Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_088
+    name: Turkmenistan Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_089
+    name: Turkmenistan Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_090
+    name: Turkmenistan Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_091
+    name: Turkmenistan Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_092
+    name: Turkmenistan Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_093
+    name: Turkmenistan Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_094
+    name: Turkmenistan Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_095
+    name: Turkmenistan Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_096
+    name: Turkmenistan Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_097
+    name: Turkmenistan Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_098
+    name: Turkmenistan Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_099
+    name: Turkmenistan Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_100
+    name: Turkmenistan Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_101
+    name: Turkmenistan Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_102
+    name: Turkmenistan Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_103
+    name: Turkmenistan Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_104
+    name: Turkmenistan Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_105
+    name: Turkmenistan Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_106
+    name: Turkmenistan Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_107
+    name: Turkmenistan Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_108
+    name: Turkmenistan Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_109
+    name: Turkmenistan Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_110
+    name: Turkmenistan Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_111
+    name: Turkmenistan Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_112
+    name: Turkmenistan Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_113
+    name: Turkmenistan Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_114
+    name: Turkmenistan Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_115
+    name: Turkmenistan Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_116
+    name: Turkmenistan Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_117
+    name: Turkmenistan Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_118
+    name: Turkmenistan Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_119
+    name: Turkmenistan Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_120
+    name: Turkmenistan Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_121
+    name: Turkmenistan Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_122
+    name: Turkmenistan Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_123
+    name: Turkmenistan Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_124
+    name: Turkmenistan Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_125
+    name: Turkmenistan Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_126
+    name: Turkmenistan Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_127
+    name: Turkmenistan Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_128
+    name: Turkmenistan Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_129
+    name: Turkmenistan Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_130
+    name: Turkmenistan Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_131
+    name: Turkmenistan Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_132
+    name: Turkmenistan Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_133
+    name: Turkmenistan Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_134
+    name: Turkmenistan Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_135
+    name: Turkmenistan Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_136
+    name: Turkmenistan Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_137
+    name: Turkmenistan Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_138
+    name: Turkmenistan Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_139
+    name: Turkmenistan Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_140
+    name: Turkmenistan Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_141
+    name: Turkmenistan Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_142
+    name: Turkmenistan Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_143
+    name: Turkmenistan Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_144
+    name: Turkmenistan Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_145
+    name: Turkmenistan Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_146
+    name: Turkmenistan Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_147
+    name: Turkmenistan Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_148
+    name: Turkmenistan Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_149
+    name: Turkmenistan Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_150
+    name: Turkmenistan Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_151
+    name: Turkmenistan Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_152
+    name: Turkmenistan Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_153
+    name: Turkmenistan Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_154
+    name: Turkmenistan Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_155
+    name: Turkmenistan Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_156
+    name: Turkmenistan Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_157
+    name: Turkmenistan Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_158
+    name: Turkmenistan Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_159
+    name: Turkmenistan Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_160
+    name: Turkmenistan Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_161
+    name: Turkmenistan Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_162
+    name: Turkmenistan Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_163
+    name: Turkmenistan Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_164
+    name: Turkmenistan Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_165
+    name: Turkmenistan Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_166
+    name: Turkmenistan Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_167
+    name: Turkmenistan Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_168
+    name: Turkmenistan Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_169
+    name: Turkmenistan Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tm_170
+    name: Turkmenistan Agent 170
+    status: ACTIVE_SCAFFOLD

@@ -1,0 +1,27 @@
+{
+  "url": "https://treaties.un.org/",
+  "final_url": "https://treaties.un.org/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 164609,
+  "sha256": "6683806f980d63bdea7b4b643dd647359ce57258f629ac829886340ac915ad98",
+  "captured_at": "2026-11-21T21:59:00.611850Z",
+  "custodian": "OpenCode/harvest_public_sources.py",
+  "country": "Turkmenistan",
+  "iso": "TM",
+  "title": "UN Treaty Collection",
+  "headers": {
+    "Date": "Sat, 21 Nov 2026 22:01:40 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Content-Length": "164609",
+    "Connection": "close",
+    "Set-Cookie": "ASP.NET_SessionId=rs03ltc4zybiusfvy3uhqm3e; path=/; secure; HttpOnly; SameSite=Lax",
+    "Cache-Control": "private",
+    "x-frame-options": "SAMEORIGIN",
+    "X-AspNet-Version": "4.0.30319",
+    "Request-Context": "appId=cid-v1:34aefb44-12a4-4541-955a-72cc5cdf4863",
+    "Access-Control-Expose-Headers": "Request-Context",
+    "X-Powered-By": "ASP.NET",
+    "Strict-Transport-Security": "max-age=31536000"
+  }
+}
