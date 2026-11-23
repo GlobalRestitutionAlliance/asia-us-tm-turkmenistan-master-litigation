@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/europe-and-central-asia/eastern-europe-and-central-asia/turkmenistan/",
+  "final_url": "https://www.amnesty.org/en/location/europe-and-central-asia/eastern-europe-and-central-asia/turkmenistan/",
+  "title": "Amnesty - Turkmenistan",
+  "fetched_at": "2026-11-23T15:27:21.861660Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 110244,
+  "sha256": "61ed3d27c8b65c6a7fe0f61a0292abf37ee92060fa0f3027c0dc4c77df3fda2a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

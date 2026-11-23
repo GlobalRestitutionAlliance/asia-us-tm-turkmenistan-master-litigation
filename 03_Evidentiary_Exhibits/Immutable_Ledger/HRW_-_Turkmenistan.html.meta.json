@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/europe/central-asia/turkmenistan",
+  "final_url": "https://www.hrw.org/europe/central-asia/turkmenistan",
+  "title": "HRW - Turkmenistan",
+  "fetched_at": "2026-11-23T15:27:21.270278Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 187290,
+  "sha256": "221dda69443bfbce8594e95d85af1bdddc8dff77a73557c3470f4473e7d9df4a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
